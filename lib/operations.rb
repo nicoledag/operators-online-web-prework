@@ -17,4 +17,3 @@ speed > 60 ? true
 
 
 end
-
